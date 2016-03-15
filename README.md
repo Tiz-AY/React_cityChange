@@ -7,5 +7,5 @@
 # laster : 
 
 ```bash
-ReactDOM.render(<React_cityChange></React_cityChange>,document.getElementById('container'))
+ReactDOM.render(<ReactCityChange ></ReactCityChange>,document.getElementById('container'))
 ```
